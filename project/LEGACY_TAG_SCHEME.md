@@ -1,6 +1,6 @@
 # Legacy Documentation Tag Scheme
 
-> Imported from the original vault README (`01__Fallout 2d10/README.md`). The text below is preserved unchanged. Its `status/` tags predate the approval statuses in [CLAUDE.md §6](../CLAUDE.md#6-rules-canon-and-approval-status); how the two relate is tracked as [UQ-0003](../design/UNRESOLVED_QUESTIONS.md#uq-0003--legacy-tag-scheme-vs-approval-statuses).
+> Imported from the original vault README (`01__Fallout 2d10/README.md`). The text below is preserved unchanged. Its `status/` tags predate the approval statuses in [CLAUDE.md §6](../CLAUDE.md#6-rules-canon-and-approval-status); "Fallout 2d10" was the rules system's former name; it is now the **2d10 Engine** ([DEC-0003](../design/DESIGN_DECISIONS.md#dec-0003--project-and-rules-system-naming)). How the two status schemes relate is tracked as [UQ-0003](../design/UNRESOLVED_QUESTIONS.md#uq-0003--legacy-tag-scheme-vs-approval-statuses).
 
 # Welcome to the Wasteland
 

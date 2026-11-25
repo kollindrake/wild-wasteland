@@ -61,3 +61,36 @@ None directly. All imported rules are treated as Draft until confirmed.
 #### Related Documents
 
 [CLAUDE.md](../CLAUDE.md)
+
+### DEC-0003 — Project and rules system naming
+
+- **Date:** 2026-11-25
+- **Status:** Approved
+- **Authority:** Project Owner
+
+#### Context
+
+The imported rules were titled "Fallout 2d10", and early documentation described Wild Wasteland as the rules system itself (UQ-0004).
+
+#### Options Considered
+
+Not recorded.
+
+#### Decision
+
+- **Wild Wasteland** is the overall project: project management, repository organization, development history, agent collaboration.
+- **2d10 Engine** is the tabletop rules system: mechanics, resolution systems, system design.
+- Exact spelling and capitalization of both names are preserved. The repository is not renamed.
+- "Fallout 2d10" is retired. Historical records keep it, with a clarifying note.
+
+#### Rationale
+
+Separates the project from the rules system it produces. Full text in CLAUDE.md §25.
+
+#### Mechanical Consequences
+
+None. The name "2d10 Engine" does not approve any specific dice resolution mechanic; UQ-0001 remains open.
+
+#### Related Documents
+
+[CLAUDE.md §25](../CLAUDE.md#25-project-identity-and-naming-convention), [AGENTS.md](../AGENTS.md), [UNRESOLVED_QUESTIONS.md](UNRESOLVED_QUESTIONS.md)

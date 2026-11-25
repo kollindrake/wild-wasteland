@@ -1,6 +1,6 @@
 # Probability Analysis
 
-Mathematical findings only. This is not a balance assessment and not a playtest result.
+Probability analysis for the 2d10 Engine. Mathematical findings only. This is not a balance assessment and not a playtest result.
 
 ## 2d10 sum distribution
 

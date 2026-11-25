@@ -4,7 +4,18 @@ No official rules version has been established. Versions will be assigned only w
 
 ## Unreleased
 
+### 2026-11-25: Naming convention
+
+**Terminology revisions**
+- The rules system is named the **2d10 Engine**; Wild Wasteland is the project (DEC-0003, CLAUDE.md §25). "Fallout 2d10" is retired.
+
+**Documentation changes**
+- Added CLAUDE.md §25 and a naming rule in AGENTS.md. Updated README, indexes, status, handoff, and tasks. Resolved UQ-0004.
+- No rules text changed. Historical source paths that contain "Fallout 2d10" are kept as records.
+
 ### 2026-11-25: Initial import
+
+*Note: at the time of import the rules system was titled "Fallout 2d10"; it is now the 2d10 Engine.*
 
 **Added rules (imported unchanged, status Draft pending owner confirmation)**
 - `rules/ACTION_RESOLUTION.md` from `core/checks.md`

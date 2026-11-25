@@ -1,6 +1,7 @@
 # Project Status
 
 - **Last Updated:** 2026-11-25
+- **Rules System:** 2d10 Engine
 - **Rules Version:** none established
 - **Phase:** Initial import complete. No mechanics approved yet.
 

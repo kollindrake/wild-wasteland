@@ -3,7 +3,8 @@
 ## Waiting on project owner
 - [ ] Decide UQ-0001 (roll direction).
 - [ ] Confirm statuses of imported rules (UQ-0002).
-- [ ] Decide UQ-0003 to UQ-0006.
+- [ ] Decide UQ-0003, UQ-0005, UQ-0006.
+- [x] Decide system name (UQ-0004): 2d10 Engine, DEC-0003.
 - [ ] Authorize typo corrections listed in ISSUE-0006.
 
 ## Ready after decisions

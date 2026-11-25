@@ -35,9 +35,9 @@ The original vault used `status/idea`, `draft`, `review`, `playtest`, `final`, `
 
 ### UQ-0004 — System name
 
-- **Status:** Unresolved
+- **Status:** Resolved 2026-11-25 by [DEC-0003](DESIGN_DECISIONS.md#dec-0003--project-and-rules-system-naming)
 
-The project is Wild Wasteland; the imported rules call themselves "Fallout 2d10". Which name should rules text use?
+The project is Wild Wasteland; the imported rules called themselves "Fallout 2d10". Which name should rules text use? **Answer:** the rules system is the 2d10 Engine.
 
 ### UQ-0005 — Derived Statistics formulas
 

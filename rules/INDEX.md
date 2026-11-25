@@ -1,5 +1,7 @@
 # Rules Index
 
+Rules of the **2d10 Engine**, the tabletop rules system developed in the Wild Wasteland project.
+
 | File | Status | Contents |
 | --- | --- | --- |
 | [ACTION_RESOLUTION.md](ACTION_RESOLUTION.md) | Draft | Checks: when to roll, Difficulty Class, Feature and Situational Modifiers, stacking. "How to resolve a Check" is an empty heading. |

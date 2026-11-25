@@ -670,3 +670,42 @@ The project owner determines what becomes canonical.
 Agents assist with design, analysis, documentation, consistency, and balance.
 
 No programming, software development, or unrelated content creation is permitted.
+
+## 25. Project Identity and Naming Convention
+
+*Added 2026-11-25 by the project owner. Supersedes earlier references that identify Wild Wasteland as the name of the rules system itself (see DEC-0003).*
+
+### Official Designations
+
+- **Project Name:** Wild Wasteland
+- **Rules System Name:** 2d10 Engine
+- **Project Type:** Tabletop Role-Playing Game (TTRPG)
+- **Project Scope:** Rules system development only
+- **Documentation Format:** Markdown (`.md`)
+- **Repository:** https://github.com/kollindrake/wild-wasteland.git
+
+### Naming Rules
+
+- Wild Wasteland refers to the overall project.
+- 2d10 Engine refers to the tabletop rules system being developed within Wild Wasteland.
+- Always preserve the exact capitalization and spelling of both names.
+- Use 2d10 Engine when referring to game mechanics, mechanical frameworks, rules, resolution systems, and system design.
+- Use Wild Wasteland when referring to project management, repository organization, development history, and agent collaboration.
+- Do not rename the GitHub repository.
+- Update existing Markdown documentation to reflect this naming convention.
+- Preserve historical records while clarifying outdated terminology.
+- Do not interpret the system name as approval of any specific dice resolution mechanic.
+
+### Scope Restrictions
+
+The 2d10 Engine is a tabletop rules system, not a software engine.
+
+All previously established restrictions remain in effect:
+
+- Rules development only.
+- Markdown-only project content.
+- No programming or software development.
+- No unrelated worldbuilding or narrative development.
+- No unauthorized changes to canonical mechanics.
+
+These naming conventions supersede previous references that identify Wild Wasteland as the name of the rules system itself.

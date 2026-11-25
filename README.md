@@ -1,8 +1,10 @@
 # Wild Wasteland
 
-Wild Wasteland is a tabletop role-playing game (TTRPG) rules system. The imported rules use the working title **Fallout 2d10**; checks are rolled on two ten-sided dice.
+Wild Wasteland is the project developing the **2d10 Engine**, a tabletop role-playing game (TTRPG) rules system. The 2d10 Engine is a set of tabletop rules, not a software engine. The name does not by itself approve any particular dice resolution mechanic.
 
-This repository is the source of truth for the system. All content is Markdown.
+The imported rules were previously titled "Fallout 2d10". That name is retired; see [DEC-0003](design/DESIGN_DECISIONS.md#dec-0003--project-and-rules-system-naming).
+
+This repository is the source of truth for the project. All content is Markdown.
 
 ## Start here
 
@@ -15,7 +17,7 @@ This repository is the source of truth for the system. All content is Markdown.
 
 | Folder | Contents |
 | --- | --- |
-| [`rules/`](rules/INDEX.md) | Rules text. Everything currently there is imported Draft material awaiting owner confirmation. |
+| [`rules/`](rules/INDEX.md) | 2d10 Engine rules text. Everything currently there is imported Draft material awaiting owner confirmation. |
 | [`design/`](design/INDEX.md) | Design decisions, probability analysis, unresolved questions. |
 | [`project/`](project/INDEX.md) | Status, development log, roadmap, tasks, known issues, handoff. |
 
