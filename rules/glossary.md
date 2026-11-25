@@ -1,9 +1,9 @@
 - **Status:** Draft (imported; awaiting project owner confirmation, see [UQ-0002](../design/unresolved-questions.md#uq-0002--approval-status-of-imported-rules))
 - **Category:** Glossary
-- **Last Revised:** 2026-11-25 (imported unchanged from the original Obsidian vault)
+- **Last Revised:** 2026-11-25 (imported from the original Obsidian vault; Character Level and Rank entries revised per DEC-0005)
 - **Source:** `01__Fallout 2d10/core/glossary.md`
 
-> Rules text below is preserved exactly as imported, including typos. Known problems are tracked in [project/known-issues.md](../project/known-issues.md).
+> Rules text below is preserved exactly as imported, including typos, except the **Character Level** and **Rank** entries, which were rewritten 2026-11-25 to match the approved progression rules ([DEC-0005](../design/design-decisions.md#dec-0005--character-levels-and-ranks)); the imported wording is preserved in that decision. Known problems are tracked in [project/known-issues.md](../project/known-issues.md).
 
 # System Documentation Glossary
 
@@ -46,7 +46,7 @@
 | Derived Statistics         | Numerical values calculated from one or more Traits, representing specific capabilities or limitations of an Actor.                                                           |
 | Flaw                       | A detrimental Feature that imposes limitations, penalties, or other disadvantages on an Actor.                                                                                |
 | Health Points (HP)         | A numerical representation of how much damage a Actor can sustain before becoming incapacitated or dying.                                                                     |
-| Level                      | A numerical representation of a character’s overall advancement, determining progression and access to additional abilities.                                                  |
+| Character Level            | A number from 1 to 20 representing a character’s overall advancement. A character’s Character Level determines their Rank. See character-progression.md.                      |
 | Perk                       | A beneficial Feature that grants an Actor additional abilities, bonuses, or special capabilities.                                                                             |
 | Prerequisite               | A requirement that must be satisfied before an Actor may acquire or use a particular Feature or ability.                                                                      |
 | Race                       | The biological or artificial classification of an Actor, determining certain innate characteristics and capabilities.                                                         |
@@ -56,7 +56,7 @@
 | Tagged Skill               | A designation applied to a Skill that allows a Check to automatically succeed when doubles are rolled, except when both dice show one.                                        |
 | Trait                      | A characteristic or capability possessed by an Actor. Traits encompass Attributes, Skills, and other rated characteristics.                                                   |
 | Trait Rating               | A numerical value assigned to a Trait that determines its effectiveness and any associated modifiers.                                                                         |
-| Rank                       | A mark of advancement that unlocks features and improves certain statistics for Player Characters.                                                                            |
+| Rank                       | One of five stages of character progression (Drifter, Survivor, Veteran, Renowned, Legend), each covering four consecutive Character Levels and determined by Character Level. See character-progression.md. |
 | Advantage                  | A mechanic allowing an Actor to roll an additional die during a Check and retain the highest applicable dice for its result.                                                  |
 | Check                      | A Check made using an Attribute to determine whether an Actor succeeds at a task relying primarily on fundamental physical or mental capabilities.                            |
 | Critical Failure           | An exceptional outcome of a Check that produces an additional detrimental effect beyond ordinary failure.                                                                     |

@@ -124,3 +124,40 @@ None. Organizational only.
 #### Related Documents
 
 [CLAUDE.md §5](../CLAUDE.md#5-repository-organization)
+
+### DEC-0005 — Character Levels and Ranks
+
+- **Date:** 2026-11-25
+- **Status:** Approved (Canonical)
+- **Authority:** Project Owner
+
+#### Context
+
+The 2d10 Engine had no progression rules. The glossary defined "Level" and "Rank" only loosely, and the Rank entry implied benefits ("unlocks features and improves certain statistics") that were never written. The owner's request referred to a previous 25-level progression system; no document in the repository or its history describes one, so the only prior record of progression is those two glossary entries.
+
+#### Options Considered
+
+Not recorded. The owner issued the rule directly.
+
+#### Decision
+
+- Character Level runs from 1 (minimum) to 20 (maximum).
+- Progression is divided into five Ranks of four consecutive Character Levels each: Rank 1 Drifter (1–4), Rank 2 Survivor (5–8), Rank 3 Veteran (9–12), Rank 4 Renowned (13–16), Rank 5 Legend (17–20).
+- A character's Rank is determined by their current Character Level. A character automatically advances to a Rank on reaching its minimum Character Level (1, 5, 9, 13, 17). There is no separate Rank advancement system.
+- Explicitly **not** decided, and left unresolved (UQ-0007): Experience Points and advancement requirements, Rank-specific benefits, Rank-based restrictions, Attribute advancement, Skill advancement, Perk prerequisites, Rank-based equipment restrictions, Rank-based mechanical modifiers.
+
+#### Rationale
+
+Owner decision. Establishes the progression scale that later progression mechanics will build on.
+
+#### Mechanical Consequences
+
+- New canonical rule PROG-001 in `rules/character-progression.md`.
+- Glossary "Level" replaced by "Character Level", and "Rank" rewritten to match. Previous imported wording, kept for the record:
+  - Level: "A numerical representation of a character’s overall advancement, determining progression and access to additional abilities."
+  - Rank: "A mark of advancement that unlocks features and improves certain statistics for Player Characters."
+- Levels and Ranks have no mechanical effect yet, so there is nothing to balance until benefits or modifiers are approved.
+
+#### Related Documents
+
+[character-progression.md](../rules/character-progression.md), [glossary.md](../rules/glossary.md), [unresolved-questions.md](unresolved-questions.md#uq-0007--progression-mechanics-beyond-levels-and-ranks)

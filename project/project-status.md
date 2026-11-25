@@ -3,16 +3,18 @@
 - **Last Updated:** 2026-11-25
 - **Rules System:** 2d10 Engine
 - **Rules Version:** none established
-- **Phase:** Initial import complete. No mechanics approved yet.
+- **Phase:** Initial import complete. First canonical mechanic approved: Character Levels and Ranks (DEC-0005).
 
 | Area | Status | Notes |
 | --- | --- | --- |
 | Action resolution (Checks, DC, modifiers) | Draft | Roll direction unresolved (UQ-0001). Resolution section empty. |
 | Attributes (6) | Draft | Complete list with definitions. No rating scale defined. |
 | Skills (18) | Draft | Complete list with governing Attribute. |
-| Glossary | Draft | ~70 terms, several inconsistencies (KNOWN_ISSUES). |
+| Glossary | Draft | ~70 terms, several inconsistencies (known-issues.md). Character Level and Rank entries match DEC-0005. |
 | Derived Statistics | Unresolved | Empty. |
-| Character creation, abilities (Perks, Flaws, Races, Backgrounds), progression | Not started | Terms exist in glossary only. |
+| Character progression: Levels and Ranks | Canonical | Levels 1–20, five Ranks (DEC-0005). |
+| Character progression: XP, Rank benefits, advancement | Unresolved | Reserved by the owner (UQ-0007). |
+| Character creation, abilities (Perks, Flaws, Races, Backgrounds) | Not started | Terms exist in glossary only. |
 | Combat, damage and healing, conditions | Not started | Terms exist in glossary only. |
 | Equipment, resources, survival, GM rules | Not started | |
 | Playtesting | None | No playtests recorded. |

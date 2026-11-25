@@ -4,6 +4,18 @@ No official rules version has been established. Versions will be assigned only w
 
 ## Unreleased
 
+### 2026-11-25: Character Levels and Ranks
+
+**Added rules**
+- `rules/character-progression.md`: Character Levels 1–20 and five Ranks (Drifter, Survivor, Veteran, Renowned, Legend), four levels each, Rank set by Character Level. Status Canonical (DEC-0005). First canonical mechanic in the 2d10 Engine.
+
+**Terminology revisions**
+- Glossary: "Level" is now "Character Level"; "Rank" rewritten. The old Rank wording implied benefits that were never approved. Previous wording preserved in DEC-0005.
+
+**Documentation changes**
+- Added DEC-0005 and UQ-0007 (unapproved progression mechanics). Updated rules index, project status, handoff, tasks.
+- No 25-level progression system was found anywhere in the repository or its history, so no references needed replacing.
+
 ### 2026-11-25: Lowercase file names
 
 **Documentation changes**

@@ -51,3 +51,10 @@ The glossary references Health Points, Pace, Parry, Damage Threshold, Radiation 
 - **Related Issue:** [ISSUE-0003](../project/known-issues.md#issue-0003--parry-sets-the-attackers-dc)
 
 The glossary says Parry sets the DC an attacker must meet, but the DC formula uses the attacker's own ratings. How do defended attacks work?
+
+### UQ-0007 — Progression mechanics beyond Levels and Ranks
+
+- **Status:** Unresolved
+- **Affected Rules:** [character-progression.md](../rules/character-progression.md)
+
+DEC-0005 approved Character Levels 1–20 and five Ranks only. The owner has reserved all of the following, each needing its own approval: Experience Points and advancement requirements, Rank-specific benefits, Rank-based restrictions, Attribute advancement, Skill advancement, Perk prerequisites, Rank-based equipment restrictions, and Rank-based mechanical modifiers.

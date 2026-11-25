@@ -104,3 +104,38 @@ Pushed to `main`.
 
 #### Recommended Next Steps
 Owner decides UQ-0001.
+
+### 2026-11-25 — Character Levels and Ranks
+
+#### Objective
+Document the owner-approved Character Levels and Ranks as canonical 2d10 Engine mechanics.
+
+#### Rules Reviewed
+All rules files. Only the glossary touched progression (Level, Rank).
+
+#### Approved Rules Changes
+PROG-001: Character Levels 1–20, five Ranks of four levels each (Drifter, Survivor, Veteran, Renowned, Legend), Rank set automatically by Character Level.
+
+#### Proposed Mechanics
+None.
+
+#### Design Decisions
+DEC-0005 (Character Levels and Ranks).
+
+#### Mathematical and Balance Findings
+None. Levels and Ranks have no mechanical effects yet.
+
+#### Rules Conflicts Identified
+The imported glossary Rank entry implied unapproved benefits; it was rewritten and the old text preserved in DEC-0005. The owner's request mentioned a previous 25-level system, but no record of it exists in the repository or its history, so nothing was replaced.
+
+#### Unresolved Questions
+UQ-0007 added: XP, Rank benefits and restrictions, Attribute and Skill advancement, Perk prerequisites, Rank-based equipment restrictions and modifiers.
+
+#### Markdown Documents Modified
+rules/character-progression.md (new), rules/index.md, rules/glossary.md, design/design-decisions.md, design/unresolved-questions.md, CHANGELOG.md, project/project-status.md, project/handoff.md, project/tasks.md, project/development-log.md.
+
+#### GitHub Synchronization Status
+Pushed to `main`.
+
+#### Recommended Next Steps
+Owner decides UQ-0001, then how characters gain Character Levels (UQ-0007).
