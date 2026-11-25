@@ -30,7 +30,7 @@ UQ-0001 to UQ-0006 in `design/UNRESOLVED_QUESTIONS.md`.
 All files are new. Rules text imported unchanged; `traits.md` split into `ATTRIBUTES.md` and `SKILLS.md`. Empty vault folders `gamemaster/player aid` and `gamemaster/rng` could not be stored in Git and are listed on the roadmap.
 
 #### GitHub Synchronization Status
-Initial push to branch `claude/project-thread-7r5nhu` (the repository's first branch).
+Initial push to branch `claude/project-thread-7r5nhu`, then published as `main` at the owner's request. `main` is the working branch.
 
 #### Recommended Next Steps
 Owner decides UQ-0001 and UQ-0002, then write "How to resolve a Check".
