@@ -1,9 +1,9 @@
-- **Status:** Draft (imported; awaiting project owner confirmation, see [UQ-0002](../design/UNRESOLVED_QUESTIONS.md#uq-0002--approval-status-of-imported-rules))
+- **Status:** Draft (imported; awaiting project owner confirmation, see [UQ-0002](../design/unresolved-questions.md#uq-0002--approval-status-of-imported-rules))
 - **Category:** Character Attributes
 - **Last Revised:** 2026-11-25 (imported unchanged from the original Obsidian vault)
 - **Source:** `01__Fallout 2d10/characters/traits.md (Attributes section)`
 
-> Rules text below is preserved exactly as imported, including typos. Known problems are tracked in [project/KNOWN_ISSUES.md](../project/KNOWN_ISSUES.md).
+> Rules text below is preserved exactly as imported, including typos. Known problems are tracked in [project/known-issues.md](../project/known-issues.md).
 
 # Attributes
 ---

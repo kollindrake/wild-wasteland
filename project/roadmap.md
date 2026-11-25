@@ -1,6 +1,6 @@
 # Roadmap
 
-Planned areas come from the original vault's tag list ([LEGACY_TAG_SCHEME.md](LEGACY_TAG_SCHEME.md)) and the permitted scope in CLAUDE.md §2. Inclusion of any mechanic is subject to owner approval.
+Planned areas come from the original vault's tag list ([legacy-tag-scheme.md](legacy-tag-scheme.md)) and the permitted scope in CLAUDE.md §2. Inclusion of any mechanic is subject to owner approval.
 
 1. **Core resolution:** settle UQ-0001, write check resolution, critical results, Advantage/Disadvantage, Group/Help/Opposed/Passive Checks.
 2. **Characters:** derived statistics, races, backgrounds, perks, flaws, mutations, advancement.

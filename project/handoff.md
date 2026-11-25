@@ -7,7 +7,7 @@
 None established.
 
 ### Current Project Status
-Wild Wasteland project; rules system: **2d10 Engine** (formerly "Fallout 2d10", see DEC-0003). Initial import from the Obsidian vault is complete. All rules are Draft pending owner confirmation. See [PROJECT_STATUS.md](PROJECT_STATUS.md).
+Wild Wasteland project; rules system: **2d10 Engine** (formerly "Fallout 2d10", see DEC-0003). Initial import from the Obsidian vault is complete. All rules are Draft pending owner confirmation. See [project-status.md](project-status.md).
 
 ### Active Design Objective
 Settle core check resolution (UQ-0001).
@@ -16,7 +16,7 @@ Settle core check resolution (UQ-0001).
 None confirmed.
 
 ### Recently Approved Changes
-DEC-0001, DEC-0002, DEC-0003 (organizational and naming only).
+DEC-0001 to DEC-0004 (organizational, naming, and file-name conventions only).
 
 ### Mechanics Under Development
 Checks and modifiers, Attributes, Skills, Glossary (all Draft).
@@ -28,13 +28,13 @@ None.
 Derived Statistics, combat (Parry, attacks), Advantage/Disadvantage, and critical results all depend on UQ-0001.
 
 ### Balance Concerns
-None assessed. Only raw 2d10 probabilities exist ([PROBABILITY_ANALYSIS.md](../design/PROBABILITY_ANALYSIS.md)).
+None assessed. Only raw 2d10 probabilities exist ([probability-analysis.md](../design/probability-analysis.md)).
 
 ### Known Rules Conflicts
 ISSUE-0001 (roll direction), ISSUE-0003 (Parry), ISSUE-0004 (glossary).
 
 ### Unresolved Design Questions
-UQ-0001 to UQ-0006 (UQ-0004 resolved) in [UNRESOLVED_QUESTIONS.md](../design/UNRESOLVED_QUESTIONS.md).
+UQ-0001 to UQ-0006 (UQ-0004 resolved) in [unresolved-questions.md](../design/unresolved-questions.md).
 
 ### Decisions Required From Project Owner
 1. Roll direction (UQ-0001).
@@ -46,4 +46,4 @@ UQ-0001 to UQ-0006 (UQ-0004 resolved) in [UNRESOLVED_QUESTIONS.md](../design/UNR
 Owner decides UQ-0001; then write check resolution and align the glossary.
 
 ### Relevant Markdown Documents
-[CLAUDE.md](../CLAUDE.md), [AGENTS.md](../AGENTS.md), [rules/INDEX.md](../rules/INDEX.md), [KNOWN_ISSUES.md](KNOWN_ISSUES.md), [TASKS.md](TASKS.md).
+[CLAUDE.md](../CLAUDE.md), [AGENTS.md](../AGENTS.md), [rules/index.md](../rules/index.md), [known-issues.md](known-issues.md), [tasks.md](tasks.md).

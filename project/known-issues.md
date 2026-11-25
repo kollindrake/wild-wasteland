@@ -4,7 +4,7 @@
 
 - **Status:** Open
 - **Severity:** Critical
-- **Affected Rules:** ACTION_RESOLUTION.md (Difficulty Class), GLOSSARY.md (Success, Failure, Difficulty Class)
+- **Affected Rules:** action-resolution.md (Difficulty Class), glossary.md (Success, Failure, Difficulty Class)
 - **Discovered:** 2026-11-25
 
 #### Description
@@ -17,7 +17,7 @@ Under the glossary reading, better-trained characters succeed less often. Checks
 Attribute + Skill = DC 14. Roll-under: 79% success. Meet-or-exceed: 28% success.
 
 #### Proposed Resolution
-See [UQ-0001](../design/UNRESOLVED_QUESTIONS.md#uq-0001--check-roll-direction).
+See [UQ-0001](../design/unresolved-questions.md#uq-0001--check-roll-direction).
 
 #### Approval Status
 Not approved.
@@ -29,7 +29,7 @@ None yet.
 
 - **Status:** Open
 - **Severity:** High
-- **Affected Rules:** ACTION_RESOLUTION.md
+- **Affected Rules:** action-resolution.md
 - **Discovered:** 2026-11-25
 
 #### Description
@@ -42,11 +42,11 @@ Not approved.
 
 - **Status:** Open
 - **Severity:** Medium
-- **Affected Rules:** GLOSSARY.md (Parry), ACTION_RESOLUTION.md
+- **Affected Rules:** glossary.md (Parry), action-resolution.md
 - **Discovered:** 2026-11-25
 
 #### Description
-Parry is described as setting the DC an attacker must meet, but the DC formula uses the attacker's own ratings. See [UQ-0006](../design/UNRESOLVED_QUESTIONS.md#uq-0006--parry-as-a-defensive-dc).
+Parry is described as setting the DC an attacker must meet, but the DC formula uses the attacker's own ratings. See [UQ-0006](../design/unresolved-questions.md#uq-0006--parry-as-a-defensive-dc).
 
 #### Approval Status
 Not approved.
@@ -55,11 +55,11 @@ Not approved.
 
 - **Status:** Open
 - **Severity:** Medium
-- **Affected Rules:** GLOSSARY.md
+- **Affected Rules:** glossary.md
 - **Discovered:** 2026-11-25
 
 #### Description
-- **Check** is defined only as an Attribute check, and the definition is circular. ACTION_RESOLUTION.md combines Attribute and Skill.
+- **Check** is defined only as an Attribute check, and the definition is circular. action-resolution.md combines Attribute and Skill.
 - **Critical Success** says "A natural result of 20 is noted in the scanned draft", which reads as a transcription note, not a rule.
 - **Duration** refers to "Condition" while the glossary defines "Status Effect". One term should be chosen.
 
@@ -70,7 +70,7 @@ Not approved.
 
 - **Status:** Open
 - **Severity:** Low
-- **Affected Rules:** SKILLS.md
+- **Affected Rules:** skills.md
 - **Discovered:** 2026-11-25
 
 #### Description
@@ -83,13 +83,13 @@ Not approved.
 
 - **Status:** Open
 - **Severity:** Low
-- **Affected Rules:** ACTION_RESOLUTION.md, GLOSSARY.md, ATTRIBUTES.md
+- **Affected Rules:** action-resolution.md, glossary.md, attributes.md
 - **Discovered:** 2026-11-25
 
 #### Description
-- ACTION_RESOLUTION.md: "uncertian"; "The outcome affect"; "determined by combines the ratings".
-- GLOSSARY.md: "Player Characetr"; "during a its turn"; "a Actor".
-- ATTRIBUTES.md: "Defnition".
+- action-resolution.md: "uncertian"; "The outcome affect"; "determined by combines the ratings".
+- glossary.md: "Player Characetr"; "during a its turn"; "a Actor".
+- attributes.md: "Defnition".
 
 #### Proposed Resolution
 Correct spelling only, no change in meaning.

@@ -36,6 +36,6 @@ Two ten-sided dice (1–10 each) give 100 equally likely outcomes. Sums range fr
 
 ## Relevance
 
-These tables support [UQ-0001](UNRESOLVED_QUESTIONS.md#uq-0001--check-roll-direction). Under roll-under-or-equal, the chance of success is the P(≤ sum) column at the DC. Under meet-or-exceed, it is the P(≥ sum) column. Because the DC is built from the acting character's own ratings, the two readings move in opposite directions as ratings rise.
+These tables support [UQ-0001](unresolved-questions.md#uq-0001--check-roll-direction). Under roll-under-or-equal, the chance of success is the P(≤ sum) column at the DC. Under meet-or-exceed, it is the P(≥ sum) column. Because the DC is built from the acting character's own ratings, the two readings move in opposite directions as ratings rise.
 
 Advantage and Disadvantage (roll an extra die, keep the best or worst) are not analyzed yet, because which dice are kept depends on UQ-0001.

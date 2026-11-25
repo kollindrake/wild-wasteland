@@ -113,6 +113,8 @@ Maintain an organized, navigable Markdown repository.
 
 The following structure is an organizational framework. It does not establish or approve any specific game mechanic.
 
+*File names updated 2026-11-25: the project owner approved lowercase, hyphenated file names inside folders (for example `rules/core-rules.md`). `README.md`, `CLAUDE.md`, `AGENTS.md`, and `CHANGELOG.md` at the repository root keep their conventional names. See DEC-0004.*
+
 ```text
 wild-wasteland/
 ├── README.md
@@ -120,50 +122,50 @@ wild-wasteland/
 ├── AGENTS.md
 ├── CHANGELOG.md
 ├── rules/
-│   ├── INDEX.md
-│   ├── CORE_RULES.md
-│   ├── DICE_MECHANICS.md
-│   ├── ACTION_RESOLUTION.md
-│   ├── CHARACTER_CREATION.md
-│   ├── ATTRIBUTES.md
-│   ├── SKILLS.md
-│   ├── ABILITIES.md
-│   ├── COMBAT.md
-│   ├── DAMAGE_AND_HEALING.md
-│   ├── CONDITIONS.md
-│   ├── EQUIPMENT.md
-│   ├── RESOURCE_MANAGEMENT.md
-│   ├── SURVIVAL.md
-│   ├── CHARACTER_PROGRESSION.md
-│   ├── GAME_MASTER_RULES.md
-│   └── GLOSSARY.md
+│   ├── index.md
+│   ├── core-rules.md
+│   ├── dice-mechanics.md
+│   ├── action-resolution.md
+│   ├── character-creation.md
+│   ├── attributes.md
+│   ├── skills.md
+│   ├── abilities.md
+│   ├── combat.md
+│   ├── damage-and-healing.md
+│   ├── conditions.md
+│   ├── equipment.md
+│   ├── resource-management.md
+│   ├── survival.md
+│   ├── character-progression.md
+│   ├── game-master-rules.md
+│   └── glossary.md
 ├── design/
-│   ├── INDEX.md
-│   ├── DESIGN_PHILOSOPHY.md
-│   ├── DESIGN_DECISIONS.md
-│   ├── DESIGN_PROPOSALS.md
-│   ├── BALANCE_ANALYSIS.md
-│   ├── PROBABILITY_ANALYSIS.md
-│   └── UNRESOLVED_QUESTIONS.md
+│   ├── index.md
+│   ├── design-philosophy.md
+│   ├── design-decisions.md
+│   ├── design-proposals.md
+│   ├── balance-analysis.md
+│   ├── probability-analysis.md
+│   └── unresolved-questions.md
 ├── reference/
-│   ├── INDEX.md
-│   ├── QUICK_REFERENCE.md
-│   ├── RULES_TABLES.md
-│   └── MECHANICAL_EXAMPLES.md
+│   ├── index.md
+│   ├── quick-reference.md
+│   ├── rules-tables.md
+│   └── mechanical-examples.md
 ├── playtesting/
-│   ├── INDEX.md
-│   ├── PLAYTEST_GUIDELINES.md
-│   ├── PLAYTEST_LOG.md
-│   └── BALANCE_ISSUES.md
+│   ├── index.md
+│   ├── playtest-guidelines.md
+│   ├── playtest-log.md
+│   └── balance-issues.md
 └── project/
-    ├── INDEX.md
-    ├── PROJECT_STATUS.md
-    ├── DEVELOPMENT_LOG.md
-    ├── ROADMAP.md
-    ├── TASKS.md
-    ├── KNOWN_ISSUES.md
-    ├── SESSION_LOG.md
-    └── HANDOFF.md
+    ├── index.md
+    ├── project-status.md
+    ├── development-log.md
+    ├── roadmap.md
+    ├── tasks.md
+    ├── known-issues.md
+    ├── session-log.md
+    └── handoff.md
 ```
 
 Only create documents that serve an established project requirement. Do not populate files with invented mechanics merely to complete the directory structure.
@@ -340,7 +342,7 @@ Do not implement a proposal into canonical rules without authorization.
 
 ## 12. Architectural and Mechanical Decisions
 
-Record significant game design decisions in `design/DESIGN_DECISIONS.md`.
+Record significant game design decisions in `design/design-decisions.md`.
 
 Use the following structure:
 
@@ -502,7 +504,7 @@ docs: reorganize rules documentation
 
 ## 17. Development History
 
-Maintain `project/DEVELOPMENT_LOG.md` as a chronological record of rules development.
+Maintain `project/development-log.md` as a chronological record of rules development.
 
 ### YYYY-MM-DD — Development Entry
 
@@ -554,7 +556,7 @@ All significant project knowledge must be preserved in repository documents.
 
 ## 19. Development Handoff
 
-Maintain `project/HANDOFF.md` as the current project context.
+Maintain `project/handoff.md` as the current project context.
 
 ### Last Updated
 

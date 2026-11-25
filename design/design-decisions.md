@@ -1,6 +1,6 @@
 # Design Decisions
 
-Only decisions the project owner has actually made are recorded here. Mechanics in the imported rules are not recorded as decisions until the owner confirms them (see [UQ-0002](UNRESOLVED_QUESTIONS.md#uq-0002--approval-status-of-imported-rules)).
+Only decisions the project owner has actually made are recorded here. Mechanics in the imported rules are not recorded as decisions until the owner confirms them (see [UQ-0002](unresolved-questions.md#uq-0002--approval-status-of-imported-rules)).
 
 ### DEC-0001 — GitHub Markdown repository as source of truth
 
@@ -93,4 +93,34 @@ None. The name "2d10 Engine" does not approve any specific dice resolution mecha
 
 #### Related Documents
 
-[CLAUDE.md §25](../CLAUDE.md#25-project-identity-and-naming-convention), [AGENTS.md](../AGENTS.md), [UNRESOLVED_QUESTIONS.md](UNRESOLVED_QUESTIONS.md)
+[CLAUDE.md §25](../CLAUDE.md#25-project-identity-and-naming-convention), [AGENTS.md](../AGENTS.md), [unresolved-questions.md](unresolved-questions.md)
+
+### DEC-0004 — Lowercase file names
+
+- **Date:** 2026-11-25
+- **Status:** Approved
+- **Authority:** Project Owner
+
+#### Context
+
+The structure in CLAUDE.md §5 used all-caps file names (`rules/CORE_RULES.md`).
+
+#### Options Considered
+
+Keep all caps; use lowercase.
+
+#### Decision
+
+Files inside folders use lowercase names with hyphens (`rules/core-rules.md`, `project/known-issues.md`). The root files `README.md`, `CLAUDE.md`, `AGENTS.md`, and `CHANGELOG.md` keep their conventional names because tools look for them by those exact names.
+
+#### Rationale
+
+Project owner preference.
+
+#### Mechanical Consequences
+
+None. Organizational only.
+
+#### Related Documents
+
+[CLAUDE.md §5](../CLAUDE.md#5-repository-organization)

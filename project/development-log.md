@@ -18,16 +18,16 @@ None.
 DEC-0001 (GitHub Markdown as source of truth), DEC-0002 (owner guidelines adopted).
 
 #### Mathematical and Balance Findings
-2d10 distribution and doubles probabilities recorded in `design/PROBABILITY_ANALYSIS.md`. Mathematical only.
+2d10 distribution and doubles probabilities recorded in `design/probability-analysis.md`. Mathematical only.
 
 #### Rules Conflicts Identified
-ISSUE-0001 to ISSUE-0006 in `project/KNOWN_ISSUES.md`. The main one is the roll-direction conflict (ISSUE-0001).
+ISSUE-0001 to ISSUE-0006 in `project/known-issues.md`. The main one is the roll-direction conflict (ISSUE-0001).
 
 #### Unresolved Questions
-UQ-0001 to UQ-0006 in `design/UNRESOLVED_QUESTIONS.md`.
+UQ-0001 to UQ-0006 in `design/unresolved-questions.md`.
 
 #### Markdown Documents Modified
-All files are new. Rules text imported unchanged; `traits.md` split into `ATTRIBUTES.md` and `SKILLS.md`. Empty vault folders `gamemaster/player aid` and `gamemaster/rng` could not be stored in Git and are listed on the roadmap.
+All files are new. Rules text imported unchanged; `traits.md` split into `attributes.md` and `skills.md`. Empty vault folders `gamemaster/player aid` and `gamemaster/rng` could not be stored in Git and are listed on the roadmap.
 
 #### GitHub Synchronization Status
 Initial push to branch `claude/project-thread-7r5nhu`, then published as `main` at the owner's request. `main` is the working branch.
@@ -62,7 +62,42 @@ None new. The name "2d10 Engine" does not settle UQ-0001.
 UQ-0004 resolved.
 
 #### Markdown Documents Modified
-CLAUDE.md, AGENTS.md, README.md, CHANGELOG.md, rules/INDEX.md, design/DESIGN_DECISIONS.md, design/UNRESOLVED_QUESTIONS.md, design/PROBABILITY_ANALYSIS.md, project/HANDOFF.md, project/TASKS.md, project/PROJECT_STATUS.md, project/LEGACY_TAG_SCHEME.md, project/DEVELOPMENT_LOG.md.
+CLAUDE.md, AGENTS.md, README.md, CHANGELOG.md, rules/index.md, design/design-decisions.md, design/unresolved-questions.md, design/probability-analysis.md, project/handoff.md, project/tasks.md, project/project-status.md, project/legacy-tag-scheme.md, project/development-log.md.
+
+#### GitHub Synchronization Status
+Pushed to `main`.
+
+#### Recommended Next Steps
+Owner decides UQ-0001.
+
+### 2026-11-25 — Lowercase file names
+
+#### Objective
+Apply the owner's request for lowercase file names.
+
+#### Rules Reviewed
+None changed.
+
+#### Approved Rules Changes
+None.
+
+#### Proposed Mechanics
+None.
+
+#### Design Decisions
+DEC-0004 (lowercase, hyphenated file names inside folders).
+
+#### Mathematical and Balance Findings
+None.
+
+#### Rules Conflicts Identified
+None.
+
+#### Unresolved Questions
+No change.
+
+#### Markdown Documents Modified
+All files in `rules/`, `design/`, and `project/` renamed; links updated across the repository, including CLAUDE.md §5 and AGENTS.md. Earlier log entries keep their original wording; file names in them now point to the renamed files.
 
 #### GitHub Synchronization Status
 Pushed to `main`.
